@@ -11,8 +11,6 @@ System Screenshot
 
 The Data-link Electronic Medical Records (EMR) System is a robust and secure platform designed to streamline the management of medical records within healthcare facilities. This system offers a comprehensive solution for storing, retrieving, and securely sharing patient information, enhancing healthcare providers' efficiency and patient care quality.
 
-![System Screenshot](screenshot.png)
-
 ## Features
 
 - **User Authentication**: Secure login and role-based access control for healthcare professionals and administrators.
@@ -55,7 +53,7 @@ We would like to express our gratitude to the open-source community and the deve
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or feedback, please contact us at [your.email@example.com](mailto:wisdomdzontoh@gmail.com).
 
 ## Support
 
