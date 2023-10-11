@@ -53,7 +53,7 @@ We would like to express our gratitude to the open-source community and the deve
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [your.email@example.com](mailto:wisdomdzontoh@gmail.com).
+For any inquiries or feedback, please contact us at [wisdomdzontoh@gmail.com](mailto:wisdomdzontoh@gmail.com).
 
 ## Support
 
